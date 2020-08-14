@@ -26,9 +26,10 @@ This is already enough to begin exploring quadraphonic (4-speaker) audio.
 
 ## How do I get started?
 1. Download [Unity Hub](https://unity3d.com/get-unity/download).
-2. Clone this repository.
-3. Open this project in the Unity editor.
-4. Edit the project by:
+2. Install Unity version 2019.4.8f1.
+3. Download the code in this repository (or clone, if you prefer).
+4. Open this project in the Unity editor.
+5. Edit the project by:
 - Changing the audio that each cube emits.
 - Changing the position of each cube.
 - Adding more cubes by duplicating the existing ones.
